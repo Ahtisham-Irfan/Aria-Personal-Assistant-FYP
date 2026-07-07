@@ -1,4 +1,4 @@
-# 🤖 Aria – Intelligent Virtual Assistant
+Aria – Intelligent Virtual Assistant
 
 Aria is a modern AI-powered desktop virtual assistant built with **Python** and **PySide6** for Windows. It combines voice interaction, system automation, music control, reminders, intelligent search, and offline AI capabilities into a clean desktop application.
 
