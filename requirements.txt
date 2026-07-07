@@ -1,0 +1,29 @@
+# Core UI
+PySide6
+
+# Voice input / output
+SpeechRecognition
+PyAudio
+pyttsx3
+
+# System control (Windows)
+pycaw
+comtypes
+screen-brightness-control
+pyautogui
+winshell
+psutil
+
+# Web search
+requests
+
+# File analysis
+python-docx
+PyPDF2
+Pillow
+pytesseract
+
+# Optional: enables smarter (embedding-based) chat matching
+# in smart_brain.py. The app still works without it, falling
+# back to simple keyword matching.
+sentence-transformers

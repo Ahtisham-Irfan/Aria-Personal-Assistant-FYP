@@ -21,6 +21,12 @@ Aria is a modern AI-powered desktop virtual assistant built with **Python** and 
 
 ---
 
+## 🖥️ Screenshots
+
+> Add application screenshots here.
+
+---
+
 ## 🛠️ Tech Stack
 
 - Python

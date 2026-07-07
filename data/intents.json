@@ -1,0 +1,51 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["hello", "hi", "hey", "hey aria", "good morning", "good evening"],
+            "responses": [
+                "Hey! What can I help with?",
+                "Hi there! How can I assist you today?"
+            ]
+        },
+        {
+            "tag": "how_are_you",
+            "patterns": ["how are you", "how are you doing", "how is it going"],
+            "responses": [
+                "I'm doing great, thanks for asking! How about you?",
+                "All systems running smoothly! How can I help?"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["thank you", "thanks", "thank you so much", "appreciate it"],
+            "responses": [
+                "You're welcome! 😊",
+                "Anytime! Let me know if you need anything else."
+            ]
+        },
+        {
+            "tag": "joke",
+            "patterns": ["tell me a joke", "make me laugh", "say something funny"],
+            "responses": [
+                "Why was the math book sad? It had too many problems!",
+                "Why don't robots ever panic? Because they have nerves of steel!"
+            ]
+        },
+        {
+            "tag": "identity",
+            "patterns": ["who are you", "what are you", "what is your name"],
+            "responses": [
+                "I'm Aria, your personal virtual assistant!"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["bye", "goodbye", "see you later", "goodbye aria"],
+            "responses": [
+                "Goodbye! Talk to you soon.",
+                "See you later! Take care."
+            ]
+        }
+    ]
+}
